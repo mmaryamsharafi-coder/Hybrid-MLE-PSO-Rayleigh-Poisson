@@ -10,6 +10,11 @@ simulations, analyses, and results presented in the paper:
 > Alaa Fallah Hasan and Maryam Sharafi
 > *Quality and Reliability Engineering International*
 
----
+## Requirements
+
+- R version >= 4.0.0
+- Required packages:
+  ```r
+  install.packages(c("knitr", "numDeriv", "pso"))
 
 ## Repository Structure
